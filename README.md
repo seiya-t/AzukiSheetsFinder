@@ -6,7 +6,7 @@ Microsoft Excelのシート検索アドインです。
 使い方
 -----
 ### インストール方法 ###
-Microsoft社のWebページ(http://office.microsoft.com/ja-jp/excel-help/HP005203732.aspx)をご覧ください。
+Microsoft社のWebページ( http://office.microsoft.com/ja-jp/excel-help/HP005203732.aspx )をご覧ください。
 
 ### 起動方法 ###
 アドインを有効にした状態で、キーボードから [Ctrl]+[j] を入力すると、フォームが開きます。
