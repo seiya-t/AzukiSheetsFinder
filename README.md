@@ -17,7 +17,7 @@ Microsoft社のWebページ(http://office.microsoft.com/ja-jp/excel-help/HP00520
 3. 検索結果一覧にシート名が表示されるので、シート名を選択すると、そのシートが開きます。
 
 ### アンインストール方法 ###
-Microsoft社のWebページ(http://office.microsoft.com/ja-jp/excel-help/HP005203732.aspx)をご覧ください。
+Microsoft社のWebページ( http://office.microsoft.com/ja-jp/excel-help/HP005203732.aspx )をご覧ください。
 
 ライセンス
 -----
