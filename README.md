@@ -21,7 +21,7 @@ Microsoft社のWebページ( http://office.microsoft.com/ja-jp/excel-help/HP0052
 
 ライセンス
 -----
-Copyright (c) 2014 Seiya Torii  
+Copyright (c) 2014 Azuki Project  
 Licensed under the [MIT License][mit].  
 (日本語訳:[MIT License][mitjp] ※正式なものは英文となります。)
 
